@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Webpage/static/css/main.5d7ca47f.chunk.css",
+    "main.js": "/React-Webpage/static/js/main.2e8e8e98.chunk.js",
+    "main.js.map": "/React-Webpage/static/js/main.2e8e8e98.chunk.js.map",
+    "runtime-main.js": "/React-Webpage/static/js/runtime-main.41c236a5.js",
+    "runtime-main.js.map": "/React-Webpage/static/js/runtime-main.41c236a5.js.map",
+    "static/js/2.107df9b8.chunk.js": "/React-Webpage/static/js/2.107df9b8.chunk.js",
+    "static/js/2.107df9b8.chunk.js.map": "/React-Webpage/static/js/2.107df9b8.chunk.js.map",
+    "static/js/3.0c2dada9.chunk.js": "/React-Webpage/static/js/3.0c2dada9.chunk.js",
+    "static/js/3.0c2dada9.chunk.js.map": "/React-Webpage/static/js/3.0c2dada9.chunk.js.map",
+    "index.html": "/React-Webpage/index.html",
+    "static/css/main.5d7ca47f.chunk.css.map": "/React-Webpage/static/css/main.5d7ca47f.chunk.css.map",
+    "static/js/2.107df9b8.chunk.js.LICENSE.txt": "/React-Webpage/static/js/2.107df9b8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Webpage/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41c236a5.js",
+    "static/js/2.107df9b8.chunk.js",
+    "static/css/main.5d7ca47f.chunk.css",
+    "static/js/main.2e8e8e98.chunk.js"
+  ]
+}
